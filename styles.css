@@ -124,3 +124,20 @@ li a {
 .checkout-description {
   width: 100%;
 }
+
+/* testimonial section */
+.testimonials {
+  background-color: #e5e7eb;
+  padding: 50px 260px;
+  color: #1f2937;
+}
+.testimonial-description {
+  font-size: 25px;
+  font-style: italic;
+}
+.testimonial-author {
+  text-align: right;
+  margin-top: 5px;
+  font-size: 18px;
+  font-weight: 500;
+}
