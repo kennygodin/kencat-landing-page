@@ -141,3 +141,40 @@ li a {
   font-size: 18px;
   font-weight: 500;
 }
+
+/* call to action section */
+.call-to-action {
+  margin: 50px 150px;
+  color: #f9faf8;
+}
+.call {
+  padding: 40px 50px;
+  background-color: #3882f6;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 6px;
+}
+.call-title {
+  font-size: 18px;
+  font-weight: 500;
+}
+/* .call-description {
+  font-size: 13px;
+} */
+.call-btn {
+  padding: 5px 25px;
+  background-color: transparent;
+  font-size: 18px;
+  color: #f9faf8;
+  border: 2px solid #f9faf8;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.call-btn:hover {
+  opacity: 0.8;
+}
+.call-btn:active {
+  opacity: 0.5;
+}
